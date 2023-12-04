@@ -1,21 +1,22 @@
-### Hi there 👋
+### Hi there! :wave:
 
 My name is Daniel, an aspiring full stack developer with a fondness for front-end developement, and backend problem solving.
 
-I am currently searching for opportunities to start a professional career with programming, developing front-end solutions, handling backend problem solving, and growing as a programmer.
+- I am currently searching for opportunities to start a professional career with programming, developing front-end solutions, handling backend problem solving, and growing as a programmer.
 
-I am a self-learning programmer looking to establish myself in the industry as a professional. 
-Everything I've learned, I've learned by doing, diving head first and figuring it out as I go.
+- I am a self-learning programmer looking to establish myself in the industry as a professional. 
+- Everything I've learned, I've learned by doing, diving head first and figuring it out as I go.
 Always curious for the next challenge, framework, language or problem to be solved.
 
+---
+### Check out my repos!
 
-Check out my repos!
+- :muscle: I am especially proud of my work with the [discord bot paps-bot](https://github.com/zanderhavgaard/paps-bot/), a great learning experience wrestling with data handling, saving data from a bot to a database.
 
-I am especially proud of my work with the discord bot paps-bot, a great learning experience wrestling with data handling, saving data from a bot to a database.
+- :hammer: Currently I'm working on a [DnD 3.5 digital character sheet](https://github.com/DanishKodeMonkey/dnd-charactersheet), utilising a full stack solution to handle your character sheets!
 
-Currently I'm working on a DnD 3.5 digital character sheet, utilising a full stack solution to handle your character sheets!
-
-
+---
+### Reach out!
 I can mainly be reached by email 
 @ Daniel_Runge_@hotmail.com
 
