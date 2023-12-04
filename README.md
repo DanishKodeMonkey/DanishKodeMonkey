@@ -12,6 +12,7 @@ Always curious for the next challenge, framework, language or problem to be solv
 Check out my repos!
 
 I am especially proud of my work with the discord bot paps-bot, a great learning experience wrestling with data handling, saving data from a bot to a database.
+
 Currently I'm working on a DnD 3.5 digital character sheet, utilising a full stack solution to handle your character sheets!
 
 
