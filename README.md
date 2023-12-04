@@ -8,6 +8,12 @@ I am a self-learning programmer looking to establish myself in the industry as a
 Everything I've learned, I've learned by doing, diving head first and figuring it out as I go.
 Always curious for the next challenge, framework, language or problem to be solved.
 
+
+Check out my repos!
+I am especially proud of my work with the discord bot paps-bot, a great learning experience wrestling with data handling, saving data from a bot to a database.
+Currently I'm working on a DnD 3.5 digital character sheet, utilising a full stack solution to handle your character sheets!
+
+
 I can mainly be reached by email 
 @ Daniel_Runge_@hotmail.com
 
