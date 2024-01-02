@@ -2,7 +2,7 @@
 
 Hey there! 👋 I'm Daniel, an enthusiastic full-stack developer who loves crafting amazing front-end solutions and diving into the depths of backend problem-solving.
 
-## About Me
+## About me
 
   - 🚀 Currently seeking opportunities to kickstart my professional career in programming.
   - 💡 Self-learner with a passion for continuous growth.
