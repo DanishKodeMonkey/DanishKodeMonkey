@@ -1,19 +1,23 @@
-### Hi there! :wave:
+### Welcome to my coding journey! :rocket:
 
-My name is Daniel, an aspiring full stack developer with a fondness for front-end developement, and backend problem solving.
+Hey there! 👋 I'm Daniel, an enthusiastic full-stack developer who loves crafting amazing front-end solutions and diving into the depths of backend problem-solving.
 
-- I am currently searching for opportunities to start a professional career with programming, developing front-end solutions, handling backend problem solving, and growing as a programmer.
+## About Me
 
-- I am a self-learning programmer looking to establish myself in the industry as a professional. 
-- Everything I've learned, I've learned by doing, diving head first and figuring it out as I go.
-Always curious for the next challenge, framework, language or problem to be solved.
+  - 🚀 Currently seeking opportunities to kickstart my professional career in programming.
+  - 💡 Self-learner with a passion for continuous growth.
+  - 💪 I thrive on challenges, always eager to explore new frameworks, languages, and solve intriguing problems.
 
 ---
+## My journey so far
+
+As a self-driven programmer, I've embraced the journey of learning by doing. Every skill I've acquired has been through hands-on experience, tackling problems head-on and unraveling the mysteries as I go.
+
 ### Check out my repos!
 
-- :muscle: I am especially proud of my work with the [discord bot paps-bot](https://github.com/zanderhavgaard/paps-bot/), a great learning experience wrestling with data handling, saving data from a bot to a database.
+- :muscle: One of my standout projects is Paps-Bot, a Discord bot that was a fantastic learning experience. Wrestling with data handling and saving bot data to a database was both challenging and rewarding.
 
-- :hammer: Currently I'm working on a [DnD 3.5 digital character sheet](https://github.com/DanishKodeMonkey/dnd-charactersheet), utilising a full stack solution to handle your character sheets!
+- :hammer: Currently, I'm immersed in crafting a DnD 3.5 Digital Character Sheet. This project showcases a full-stack solution for managing your character sheets efficiently!
 
 ---
 ### Reach out!
