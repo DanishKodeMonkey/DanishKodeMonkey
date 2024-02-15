@@ -17,7 +17,7 @@ As a self-driven programmer, I've embraced the journey of learning by doing. Eve
 
 - :muscle: One of my standout projects is Paps-Bot, a Discord bot that was a fantastic learning experience. Wrestling with data handling and saving bot data to a database was both challenging and rewarding.
 
-- :hammer: Currently, I'm immersed in crafting a DnD 3.5 Digital Character Sheet. This project showcases a full-stack solution for managing your character sheets efficiently!
+- :hammer: Currently, I'm hammering through a fascinating full stack curriculum called [The Odin Project](https://www.theodinproject.com/) to enhance, and expand on my super powers in order to grow stronger!
 
 ---
 ### Reach out!
