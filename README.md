@@ -15,7 +15,7 @@ As a self-driven programmer, I've embraced the journey of learning by doing. Eve
 
 ### Check out my repos!
 
-- :muscle: One of my standout projects is Paps-Bot, a Discord bot that was a fantastic learning experience. Wrestling with data handling and saving bot data to a database was both challenging and rewarding.
+- :muscle: One of my standout projects is my message board prototype, a great exercise in building a message board from scratch using Bootstrap for styling the front end, express and nodejs for the backend, and mongoDB as the database, a fun full stack demo! [check it out!](https://coffee-lovers-club.fly.dev/messageboard)
 
 - :hammer: Currently, I'm hammering through a fascinating full stack curriculum called [The Odin Project](https://www.theodinproject.com/) to enhance, and expand on my super powers in order to grow stronger!
 
