@@ -5,7 +5,7 @@ Hey there! 👋 I'm Daniel, an enthusiastic full-stack developer who loves craft
 ## About me
 
   - 🚀 Currently seeking opportunities to kickstart my professional career in programming.
-  - 💡 Self-learner with a passion for continuous growth.
+  - 💡 Constant learner with a passion for continuous growth.
   - 💪 I thrive on challenges, always eager to explore new frameworks, languages, and solve intriguing problems.
 
 ---
