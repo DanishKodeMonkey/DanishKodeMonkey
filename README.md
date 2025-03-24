@@ -4,9 +4,9 @@ Hey there! 👋 I'm Daniel, an enthusiastic full-stack developer who loves craft
 
 ## About me
 
-  - 🚀 Currently seeking opportunities to kickstart my professional career in programming.
+  - 🚀 Currently hacking away at Green-AI
   - 💡 Constant learner with a passion for continuous growth.
-  - 💪 I thrive on challenges, always eager to explore new frameworks, languages, and solve intriguing problems.
+  - 💪 Thrives on challenges, always eager to explore new frameworks, languages, and solve intriguing problems.
 
 ---
 ## My journey so far
@@ -15,7 +15,7 @@ As a self-driven programmer, I've embraced the journey of learning by doing. Eve
 
 ### Check out my repos!
 
-- :muscle: One of my standout projects is my message board prototype, a great exercise in building a message board from scratch using Bootstrap for styling the front end, express and nodejs for the backend, and mongoDB as the database, a fun full stack demo! [check it out!](https://coffee-lovers-club.fly.dev/messageboard)
+-🤓 I'm currently nerding out with the Deno 2.x toolset, while also messing around with Python in my free time.
 
 - :hammer: Currently, I'm hammering together cool projects, like my digital dungeons and dragons charactersheet, while exploring the possibilities of Deno 2.0
 
@@ -23,6 +23,9 @@ As a self-driven programmer, I've embraced the journey of learning by doing. Eve
 ### Reach out!
 I can mainly be reached by email 
 @ Daniel_Runge_@hotmail.com
+
+If you have a moment, check out my website
+[The kode moneky cave!](https://www.danielrunge.dk/)
 
 Alternate ways to read about me would be to check my linkedIn at
 https://www.linkedin.com/in/daniel-ljung-runge-3ba014a1/
