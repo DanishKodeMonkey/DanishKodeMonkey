@@ -15,7 +15,7 @@ As a self-driven programmer, I've embraced the journey of learning by doing. Eve
 
 ### Check out my repos!
 
--🤓 I'm currently nerding out with the Deno 2.x toolset, while also messing around with Python in my free time.
+- 🤓 I'm currently nerding out with the Deno 2.x toolset, while also messing around with Python in my free time.
 
 - :hammer: Currently, I'm hammering together cool projects, like my digital dungeons and dragons charactersheet, while exploring the possibilities of Deno 2.0
 
